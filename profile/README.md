@@ -1,6 +1,16 @@
 ## mcpp-community | 现代C++社区
 
 现代C++爱好者社区, 现代C++相关技术、文化、交流...
+
+```cpp
+// more-details: https://github.com/mcpplibs/templates
+import mcpplibs.templates;
+
+auto main() -> int {
+    mcpplibs::hello_mcpp();
+}
+```
+
 - [CoreTeam | 核心团队](https://github.com/orgs/mcpp-community/teams/coreteam)
 - [d2mcpp | 入门教程: 动手学现代C++](https://github.com/Sunrisepeak/mcpp-standard)
 - [mcpp | 现代C++论坛](https://forum.d2learn.org/category/20)
