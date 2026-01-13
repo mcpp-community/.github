@@ -32,13 +32,6 @@ auto main() -> int {
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/apps/github-actions">
-            <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="50;" alt="github-actions[bot]"/>
-            <br />
-            <sub><b>github-actions[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/521xueweihan">
             <img src="https://avatars.githubusercontent.com/u/8255800?v=4" width="50;" alt="521xueweihan"/>
             <br />
@@ -73,6 +66,7 @@ auto main() -> int {
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
+    <td></td>
 </tr>
 </table>
 <!-- thanks-contributors-flag-end -->
