@@ -12,7 +12,7 @@ auto main() -> int {
 
 ### Thanks, Contributors!
 
-> auto-update by [thanks-conatributors](https://github.com/Sunrisepeak/thanks-contributors) tools
+> auto-update by [thanks-contributors](https://github.com/Sunrisepeak/thanks-contributors) tools
 
 <!-- thanks-contributors-flag-start -->
 

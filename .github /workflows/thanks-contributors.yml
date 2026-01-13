@@ -1,0 +1,19 @@
+name: Thanks, Contributors!
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect contributors
+        uses: Sunrisepeak/thanks-contributors@0.0.3
