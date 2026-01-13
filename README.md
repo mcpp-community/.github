@@ -1,3 +1,1 @@
-# mcpp-community profile
-
-mcpp-community profile
+profile/README.md
