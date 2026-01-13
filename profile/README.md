@@ -10,6 +10,17 @@ auto main() -> int {
 }
 ```
 
+### Thanks, Contributors!
+
+> auto-update by [thanks-conatributors](https://github.com/Sunrisepeak/thanks-contributors) tools
+
+<!-- thanks-contributors-flag-start -->
+
+<!-- thanks-contributors-flag-end -->
+
+### 相关链接
+
+- [社区官网](https://mcpp.d2learn.org)
 - [CoreTeam | 核心团队](https://github.com/orgs/mcpp-community/teams/coreteam)
 - [d2mcpp | 入门教程: 动手学现代C++](https://github.com/Sunrisepeak/mcpp-standard)
 - [mcpp | 现代C++论坛](https://forum.d2learn.org/category/20)
