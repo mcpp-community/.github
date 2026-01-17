@@ -10,6 +10,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MoYingJi">
+            <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
+            <br />
+            <sub><b>MoYingJi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/d2learn-org">
             <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
             <br />
@@ -51,7 +58,6 @@
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
 </tr>
