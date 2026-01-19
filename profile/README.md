@@ -81,5 +81,6 @@ auto main() -> int {
 
 - [社区官网](https://mcpp.d2learn.org)
 - [社区论坛](https://forum.d2learn.org/category/20)
+- [社区公开任务发布面板](https://github.com/orgs/mcpp-community/projects/3)
 - [mcpplibs | 现代C++库](https://github.com/mcpplibs)
 - [mcpp社区成员和开发者 | 申请入口](https://github.com/mcpp-community/members)
