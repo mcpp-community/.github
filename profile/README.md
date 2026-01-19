@@ -80,8 +80,6 @@ auto main() -> int {
 ### 相关链接
 
 - [社区官网](https://mcpp.d2learn.org)
-- [CoreTeam | 核心团队](https://github.com/orgs/mcpp-community/teams/coreteam)
-- [d2mcpp | 入门教程: 动手学现代C++](https://github.com/Sunrisepeak/mcpp-standard)
-- [mcpp | 现代C++论坛](https://forum.d2learn.org/category/20)
+- [社区论坛](https://forum.d2learn.org/category/20)
 - [mcpplibs | 现代C++库](https://github.com/mcpplibs)
-- [d2learn社区](https://github.com/d2learn)
+- [mcpp社区成员和开发者 | 申请入口](https://github.com/mcpp-community/members)
