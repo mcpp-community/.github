@@ -10,6 +10,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/FrozenLemonTee">
+            <img src="https://avatars.githubusercontent.com/u/64787592?v=4" width="50;" alt="FrozenLemonTee"/>
+            <br />
+            <sub><b>FrozenLemonTee</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/MoYingJi">
             <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
             <br />
@@ -65,6 +72,5 @@
             <sub><b>d2learn-org</b></sub>
         </a>
     </td>
-    <td></td>
 </tr>
 </table>
