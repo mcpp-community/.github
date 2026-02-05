@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 9,
+  "count": 10,
   "contributors": [
     {
       "name": "13eholder",
@@ -23,6 +23,10 @@
       "email": null
     },
     {
+      "name": "FrozenLemonTee",
+      "email": null
+    },
+    {
       "name": "jwaiting",
       "email": null
     },
@@ -40,6 +44,15 @@
     }
   ],
   "details": {
+    "mcpp-community/mcpp-start": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/d2mcpp": {
       "count": 7,
       "contributors": [
@@ -73,27 +86,13 @@
         }
       ]
     },
-    "mcpp-community/mcpp-style-ref": {
-      "count": 1,
+    "mcpp-community/d2mystl": {
+      "count": 2,
       "contributors": [
         {
-          "name": "Sunrisepeak",
+          "name": "FrozenLemonTee",
           "email": null
-        }
-      ]
-    },
-    "mcpp-community/mcpp-bot": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/members": {
-      "count": 1,
-      "contributors": [
+        },
         {
           "name": "Sunrisepeak",
           "email": null
@@ -113,6 +112,24 @@
         }
       ]
     },
+    "mcpp-community/mcpp-style-ref": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/members": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/.github": {
       "count": 2,
       "contributors": [
@@ -122,6 +139,15 @@
         },
         {
           "name": "d2learn-org",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/mcpp-bot": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
           "email": null
         }
       ]
