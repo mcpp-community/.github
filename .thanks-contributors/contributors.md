@@ -52,6 +52,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/lost-42">
+            <img src="https://avatars.githubusercontent.com/u/202471602?v=4" width="50;" alt="lost-42"/>
+            <br />
+            <sub><b>lost-42</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/jwaiting">
             <img src="https://avatars.githubusercontent.com/u/39482149?v=4" width="50;" alt="jwaiting"/>
             <br />
@@ -65,6 +72,8 @@
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/d2learn-org">
             <img src="https://avatars.githubusercontent.com/u/248744407?v=4" width="50;" alt="d2learn-org"/>
@@ -72,5 +81,14 @@
             <sub><b>d2learn-org</b></sub>
         </a>
     </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
 </tr>
 </table>
