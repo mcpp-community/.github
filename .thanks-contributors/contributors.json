@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 10,
+  "count": 11,
   "contributors": [
     {
       "name": "13eholder",
@@ -31,6 +31,10 @@
       "email": null
     },
     {
+      "name": "lost-42",
+      "email": null
+    },
+    {
       "name": "MoYingJi",
       "email": null
     },
@@ -44,17 +48,8 @@
     }
   ],
   "details": {
-    "mcpp-community/mcpp-start": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
     "mcpp-community/d2mcpp": {
-      "count": 7,
+      "count": 8,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -77,6 +72,10 @@
           "email": null
         },
         {
+          "name": "lost-42",
+          "email": null
+        },
+        {
           "name": "jwaiting",
           "email": null
         },
@@ -93,6 +92,28 @@
           "name": "FrozenLemonTee",
           "email": null
         },
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/.github": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "d2learn-org",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/mcpp-start": {
+      "count": 1,
+      "contributors": [
         {
           "name": "Sunrisepeak",
           "email": null
@@ -126,19 +147,6 @@
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/.github": {
-      "count": 2,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "d2learn-org",
           "email": null
         }
       ]
