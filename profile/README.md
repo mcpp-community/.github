@@ -76,6 +76,13 @@ auto main() -> int {
 </tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/topshihun">
+            <img src="https://avatars.githubusercontent.com/u/89700178?v=4" width="50;" alt="topshihun"/>
+            <br />
+            <sub><b>topshihun</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/jwaiting">
             <img src="https://avatars.githubusercontent.com/u/39482149?v=4" width="50;" alt="jwaiting"/>
             <br />
@@ -96,7 +103,6 @@ auto main() -> int {
             <sub><b>d2learn-org</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
