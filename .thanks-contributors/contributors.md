@@ -52,6 +52,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MaoApoot">
+            <img src="https://avatars.githubusercontent.com/u/77091068?v=4" width="50;" alt="MaoApoot"/>
+            <br />
+            <sub><b>MaoApoot</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/13eholder">
             <img src="https://avatars.githubusercontent.com/u/109021191?v=4" width="50;" alt="13eholder"/>
             <br />
@@ -65,6 +72,8 @@
             <sub><b>lost-42</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/topshihun">
             <img src="https://avatars.githubusercontent.com/u/89700178?v=4" width="50;" alt="topshihun"/>
@@ -72,8 +81,6 @@
             <sub><b>topshihun</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/jwaiting">
             <img src="https://avatars.githubusercontent.com/u/39482149?v=4" width="50;" alt="jwaiting"/>
@@ -95,7 +102,6 @@
             <sub><b>d2learn-org</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
