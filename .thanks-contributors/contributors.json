@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 14,
+  "count": 15,
   "contributors": [
     {
       "name": "13eholder",
@@ -12,6 +12,10 @@
     },
     {
       "name": "Ankali-Aylina",
+      "email": null
+    },
+    {
+      "name": "Creativecole",
       "email": null
     },
     {
@@ -61,10 +65,14 @@
   ],
   "details": {
     "mcpp-community/mcpp-style-ref": {
-      "count": 1,
+      "count": 2,
       "contributors": [
         {
           "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "Creativecole",
           "email": null
         }
       ]
@@ -118,6 +126,19 @@
         }
       ]
     },
+    "mcpp-community/.github": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "d2learn-org",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/mcpp-community": {
       "count": 2,
       "contributors": [
@@ -149,19 +170,6 @@
         },
         {
           "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/.github": {
-      "count": 2,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "d2learn-org",
           "email": null
         }
       ]
