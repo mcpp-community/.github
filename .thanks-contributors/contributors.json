@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 16,
+  "count": 17,
   "contributors": [
     {
       "name": "13eholder",
@@ -28,6 +28,10 @@
     },
     {
       "name": "FrozenLemonTee",
+      "email": null
+    },
+    {
+      "name": "HalfAnElephant",
       "email": null
     },
     {
@@ -68,23 +72,15 @@
     }
   ],
   "details": {
-    "mcpp-community/d2mystl": {
-      "count": 4,
+    "mcpp-community/mcpp": {
+      "count": 2,
       "contributors": [
-        {
-          "name": "FrozenLemonTee",
-          "email": null
-        },
         {
           "name": "Sunrisepeak",
           "email": null
         },
         {
-          "name": "Creativecole",
-          "email": null
-        },
-        {
-          "name": "ZheFeng7110",
+          "name": "HalfAnElephant",
           "email": null
         }
       ]
@@ -138,19 +134,6 @@
         }
       ]
     },
-    "mcpp-community/mcpp-community": {
-      "count": 2,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "MoYingJi",
-          "email": null
-        }
-      ]
-    },
     "mcpp-community/mcpp-style-ref": {
       "count": 3,
       "contributors": [
@@ -168,6 +151,45 @@
         }
       ]
     },
+    "mcpp-community/d2mystl": {
+      "count": 4,
+      "contributors": [
+        {
+          "name": "FrozenLemonTee",
+          "email": null
+        },
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "Creativecole",
+          "email": null
+        },
+        {
+          "name": "ZheFeng7110",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/templates": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/mcpp-start": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/.github": {
       "count": 2,
       "contributors": [
@@ -181,16 +203,20 @@
         }
       ]
     },
-    "mcpp-community/mcpp-bot": {
-      "count": 1,
+    "mcpp-community/mcpp-community": {
+      "count": 2,
       "contributors": [
         {
           "name": "Sunrisepeak",
           "email": null
+        },
+        {
+          "name": "MoYingJi",
+          "email": null
         }
       ]
     },
-    "mcpp-community/mcpp-start": {
+    "mcpp-community/mcpp-bot": {
       "count": 1,
       "contributors": [
         {
