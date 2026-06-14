@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 18,
+  "count": 19,
   "contributors": [
     {
       "name": "13eholder",
@@ -43,6 +43,10 @@
       "email": null
     },
     {
+      "name": "lczllx",
+      "email": null
+    },
+    {
       "name": "lost-42",
       "email": null
     },
@@ -76,25 +80,8 @@
     }
   ],
   "details": {
-    "mcpp-community/mcpp": {
-      "count": 3,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "HalfAnElephant",
-          "email": null
-        },
-        {
-          "name": "yizhinailong",
-          "email": null
-        }
-      ]
-    },
     "mcpp-community/d2mcpp": {
-      "count": 11,
+      "count": 12,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -110,6 +97,10 @@
         },
         {
           "name": "Ankali-Aylina",
+          "email": null
+        },
+        {
+          "name": "lczllx",
           "email": null
         },
         {
@@ -142,6 +133,27 @@
         }
       ]
     },
+    "mcpp-community/mcpp": {
+      "count": 4,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "d2learn-org",
+          "email": null
+        },
+        {
+          "name": "HalfAnElephant",
+          "email": null
+        },
+        {
+          "name": "yizhinailong",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/mcpp-style-ref": {
       "count": 3,
       "contributors": [
@@ -155,6 +167,15 @@
         },
         {
           "name": "Creativecole",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/members": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
           "email": null
         }
       ]
@@ -225,15 +246,6 @@
       ]
     },
     "mcpp-community/mcpp-bot": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/members": {
       "count": 1,
       "contributors": [
         {
