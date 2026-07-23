@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 19,
+  "count": 20,
   "contributors": [
     {
       "name": "13eholder",
@@ -16,10 +16,6 @@
     },
     {
       "name": "Creativecole",
-      "email": null
-    },
-    {
-      "name": "d2learn-org",
       "email": null
     },
     {
@@ -63,11 +59,19 @@
       "email": null
     },
     {
+      "name": "speak-agent",
+      "email": null
+    },
+    {
       "name": "Sunrisepeak",
       "email": null
     },
     {
       "name": "topshihun",
+      "email": null
+    },
+    {
+      "name": "xv1rcn",
       "email": null
     },
     {
@@ -80,11 +84,44 @@
     }
   ],
   "details": {
+    "mcpp-community/mcpp": {
+      "count": 6,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "speak-agent",
+          "email": null
+        },
+        {
+          "name": "xv1rcn",
+          "email": null
+        },
+        {
+          "name": "HalfAnElephant",
+          "email": null
+        },
+        {
+          "name": "ZheFeng7110",
+          "email": null
+        },
+        {
+          "name": "yizhinailong",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/d2mcpp": {
       "count": 12,
       "contributors": [
         {
           "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "lczllx",
           "email": null
         },
         {
@@ -97,10 +134,6 @@
         },
         {
           "name": "Ankali-Aylina",
-          "email": null
-        },
-        {
-          "name": "lczllx",
           "email": null
         },
         {
@@ -133,27 +166,6 @@
         }
       ]
     },
-    "mcpp-community/mcpp": {
-      "count": 4,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "d2learn-org",
-          "email": null
-        },
-        {
-          "name": "HalfAnElephant",
-          "email": null
-        },
-        {
-          "name": "yizhinailong",
-          "email": null
-        }
-      ]
-    },
     "mcpp-community/mcpp-style-ref": {
       "count": 3,
       "contributors": [
@@ -167,28 +179,6 @@
         },
         {
           "name": "Creativecole",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/members": {
-      "count": 1,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/.github": {
-      "count": 2,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "d2learn-org",
           "email": null
         }
       ]
@@ -210,6 +200,28 @@
         },
         {
           "name": "ZheFeng7110",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/.github": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "speak-agent",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/members": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
           "email": null
         }
       ]
