@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.0.0",
-  "count": 20,
+  "count": 21,
   "contributors": [
     {
       "name": "13eholder",
@@ -71,6 +71,10 @@
       "email": null
     },
     {
+      "name": "wellwei",
+      "email": null
+    },
+    {
       "name": "xv1rcn",
       "email": null
     },
@@ -85,7 +89,7 @@
   ],
   "details": {
     "mcpp-community/mcpp": {
-      "count": 6,
+      "count": 7,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -93,6 +97,10 @@
         },
         {
           "name": "speak-agent",
+          "email": null
+        },
+        {
+          "name": "ZheFeng7110",
           "email": null
         },
         {
@@ -104,7 +112,7 @@
           "email": null
         },
         {
-          "name": "ZheFeng7110",
+          "name": "wellwei",
           "email": null
         },
         {
@@ -166,6 +174,19 @@
         }
       ]
     },
+    "mcpp-community/.github": {
+      "count": 2,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
+          "name": "speak-agent",
+          "email": null
+        }
+      ]
+    },
     "mcpp-community/mcpp-style-ref": {
       "count": 3,
       "contributors": [
@@ -200,19 +221,6 @@
         },
         {
           "name": "ZheFeng7110",
-          "email": null
-        }
-      ]
-    },
-    "mcpp-community/.github": {
-      "count": 2,
-      "contributors": [
-        {
-          "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "speak-agent",
           "email": null
         }
       ]
