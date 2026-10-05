@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 33,
+  "count": 32,
   "display": {
     "sort_pinned": [],
     "sort_by": "recent_commits",
@@ -12,8 +12,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 1827,
-      "recent_commits": 1774
+      "contributions": 1828,
+      "recent_commits": 1775
     },
     {
       "name": "FrozenLemonTee",
@@ -131,13 +131,6 @@
       "name": "Aimol-l",
       "email": null,
       "login": "Aimol-l",
-      "contributions": 2,
-      "recent_commits": 2
-    },
-    {
-      "name": "mcpplibs",
-      "email": "noreply@mcpplibs.org",
-      "login": null,
       "contributions": 2,
       "recent_commits": 2
     },
@@ -615,15 +608,11 @@
       ]
     },
     "mcpplibs/openkal-windows": {
-      "count": 2,
+      "count": 1,
       "contributors": [
         {
           "name": "Sunrisepeak",
           "email": null
-        },
-        {
-          "name": "mcpplibs",
-          "email": "noreply@mcpplibs.org"
         }
       ]
     },

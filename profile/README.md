@@ -148,13 +148,6 @@ auto main() -> int {
         </a>
     </td>
     <td align="center">
-        <a href="#">
-            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50;" alt="mcpplibs"/>
-            <br />
-            <sub><b>mcpplibs</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Mq-b">
             <img src="https://avatars.githubusercontent.com/u/97590219?v=4" width="50;" alt="Mq-b"/>
             <br />
@@ -189,8 +182,6 @@ auto main() -> int {
             <sub><b>Hebown</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/MaoApoot">
             <img src="https://avatars.githubusercontent.com/u/77091068?v=4" width="50;" alt="MaoApoot"/>
@@ -198,6 +189,8 @@ auto main() -> int {
             <sub><b>MaoApoot</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/13eholder">
             <img src="https://avatars.githubusercontent.com/u/109021191?v=4" width="50;" alt="13eholder"/>
@@ -247,8 +240,6 @@ auto main() -> int {
             <sub><b>Ankali-Aylina</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/jwaiting">
             <img src="https://avatars.githubusercontent.com/u/39482149?v=4" width="50;" alt="jwaiting"/>
@@ -256,13 +247,6 @@ auto main() -> int {
             <sub><b>jwaiting</b></sub>
         </a>
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
 </tr>
 </table>
 <!-- thanks-contributors-flag-end -->
