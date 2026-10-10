@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 32,
+  "count": 31,
   "display": {
     "sort_pinned": [],
     "sort_by": "recent_commits",
@@ -12,8 +12,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 1839,
-      "recent_commits": 1785
+      "contributions": 1841,
+      "recent_commits": 1787
     },
     {
       "name": "FrozenLemonTee",
@@ -23,13 +23,6 @@
       "recent_commits": 339
     },
     {
-      "name": "wellwei",
-      "email": null,
-      "login": "wellwei",
-      "contributions": 98,
-      "recent_commits": 98
-    },
-    {
       "name": "helantianshen",
       "email": null,
       "login": "helantianshen",
@@ -37,16 +30,16 @@
       "recent_commits": 28
     },
     {
-      "name": "yspbwx2010",
-      "email": null,
-      "login": "yspbwx2010",
-      "contributions": 15,
-      "recent_commits": 15
-    },
-    {
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
+      "contributions": 16,
+      "recent_commits": 16
+    },
+    {
+      "name": "yspbwx2010",
+      "email": null,
+      "login": "yspbwx2010",
       "contributions": 15,
       "recent_commits": 15
     },
@@ -135,6 +128,13 @@
       "recent_commits": 2
     },
     {
+      "name": "tz12323",
+      "email": null,
+      "login": "tz12323",
+      "contributions": 1,
+      "recent_commits": 2
+    },
+    {
       "name": "Mq-b",
       "email": null,
       "login": "Mq-b",
@@ -194,13 +194,6 @@
       "name": "topshihun",
       "email": null,
       "login": "topshihun",
-      "contributions": 1,
-      "recent_commits": 1
-    },
-    {
-      "name": "tz12323",
-      "email": null,
-      "login": "tz12323",
       "contributions": 1,
       "recent_commits": 1
     },
@@ -331,7 +324,7 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 9,
+      "count": 8,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -343,10 +336,6 @@
         },
         {
           "name": "julixian",
-          "email": null
-        },
-        {
-          "name": "wellwei",
           "email": null
         },
         {
@@ -433,12 +422,8 @@
       ]
     },
     "mcpp-community/mcpp-vscode": {
-      "count": 5,
+      "count": 4,
       "contributors": [
-        {
-          "name": "wellwei",
-          "email": null
-        },
         {
           "name": "Ximiaw",
           "email": null
@@ -624,12 +609,8 @@
       "contributors": []
     },
     "mcpplibs/llama.cpp-m": {
-      "count": 2,
+      "count": 1,
       "contributors": [
-        {
-          "name": "wellwei",
-          "email": null
-        },
         {
           "name": "Sunrisepeak",
           "email": null
@@ -655,14 +636,10 @@
       ]
     },
     "mcpplibs/mcpp-index": {
-      "count": 12,
+      "count": 11,
       "contributors": [
         {
           "name": "Sunrisepeak",
-          "email": null
-        },
-        {
-          "name": "wellwei",
           "email": null
         },
         {
