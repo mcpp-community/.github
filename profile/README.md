@@ -1,6 +1,11 @@
-## mcpp-community | 现代C++社区
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mcpp-community/.github/930bb26951da88d3b19a80b46fb17b1762261662/profile/assets/logo.png" width="120" alt="mcpp-community logo"/>
+  <h1>mcpp-community</h1>
+  <p>A community for Modern C++ enthusiasts — technology, culture, and discussion around Modern C++...</p>
+  <p><sub><b>English</b> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.md">简体中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.hant.md">繁體中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ja.md">日本語</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ko.md">한국어</a></sub></p>
+</div>
 
-现代C++爱好者社区, 现代C++相关技术、文化、交流...
+<br/>
 
 ```cpp
 import std;
@@ -12,7 +17,7 @@ auto main() -> int {
 
 ### Thanks, Contributors!
 
-> auto-update by [thanks-contributors](https://github.com/Sunrisepeak/thanks-contributors) tools
+> auto-updated by the [thanks-contributors](https://github.com/Sunrisepeak/thanks-contributors) tool
 
 <!-- thanks-contributors-flag-start -->
 <table>
@@ -245,10 +250,10 @@ auto main() -> int {
 </table>
 <!-- thanks-contributors-flag-end -->
 
-### 相关链接
+### Links
 
-- [社区官网](https://mcpp.d2learn.org)
-- [社区论坛](https://forum.d2learn.org/category/20) ([`Q: 1067245099`](https://qm.qq.com/q/nBQdBaYNna))
-- [社区公开任务发布面板](https://github.com/orgs/mcpp-community/projects/3)
-- [mcpplibs | 现代C++库](https://github.com/mcpplibs)
-- [mcpp社区成员和开发者 | 申请入口](https://github.com/mcpp-community/members)
+- [Official Website](https://mcpp.d2learn.org)
+- [Community Forum](https://forum.d2learn.org/category/20) ([`QQ: 1067245099`](https://qm.qq.com/q/nBQdBaYNna))
+- [Public Task Board](https://github.com/orgs/mcpp-community/projects/3)
+- [mcpplibs | Modern / Modules C++ Libraries](https://github.com/mcpplibs)
+- [mcpp Community Members & Developers | Apply Here](https://github.com/mcpp-community/members)
