@@ -1,8 +1,4 @@
-<div align="right">
-  <a href="https://github.com/mcpp-community">English</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.md">简体中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.hant.md">繁體中文</a> | <b>日本語</b> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ko.md">한국어</a>
-</div>
-
-## mcpp-community | モダンC++コミュニティ
+<h2><table align="right"><tr><td>&nbsp;<sub><a href="https://github.com/mcpp-community">English</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.md">简体中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.hant.md">繁體中文</a> | <b>日本語</b> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ko.md">한국어</a></sub></td></tr></table>mcpp-community</h2>
 
 モダンC++愛好家のコミュニティ。モダンC++に関する技術・文化・交流...
 
@@ -254,5 +250,5 @@ auto main() -> int {
 - [公式サイト](https://mcpp.d2learn.org)
 - [コミュニティフォーラム](https://forum.d2learn.org/category/20) ([`QQ: 1067245099`](https://qm.qq.com/q/nBQdBaYNna))
 - [公開タスクボード](https://github.com/orgs/mcpp-community/projects/3)
-- [mcpplibs | モダンC++ライブラリ](https://github.com/mcpplibs)
+- [mcpplibs | モダン / モジュール C++ ライブラリ](https://github.com/mcpplibs)
 - [mcppコミュニティメンバー・開発者 | 参加申請](https://github.com/mcpp-community/members)

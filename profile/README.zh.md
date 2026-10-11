@@ -1,8 +1,4 @@
-<div align="right">
-  <a href="https://github.com/mcpp-community">English</a> | <b>简体中文</b> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.hant.md">繁體中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ja.md">日本語</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ko.md">한국어</a>
-</div>
-
-## mcpp-community | 现代C++社区
+<h2><table align="right"><tr><td>&nbsp;<sub><a href="https://github.com/mcpp-community">English</a> | <b>简体中文</b> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.hant.md">繁體中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ja.md">日本語</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ko.md">한국어</a></sub></td></tr></table>mcpp-community</h2>
 
 现代C++爱好者社区, 现代C++相关技术、文化、交流...
 
@@ -254,5 +250,5 @@ auto main() -> int {
 - [社区官网](https://mcpp.d2learn.org)
 - [社区论坛](https://forum.d2learn.org/category/20) ([`Q: 1067245099`](https://qm.qq.com/q/nBQdBaYNna))
 - [社区公开任务发布面板](https://github.com/orgs/mcpp-community/projects/3)
-- [mcpplibs | 现代C++库](https://github.com/mcpplibs)
+- [mcpplibs | 现代 / 模块化 C++ 库](https://github.com/mcpplibs)
 - [mcpp社区成员和开发者 | 申请入口](https://github.com/mcpp-community/members)

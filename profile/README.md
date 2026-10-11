@@ -1,8 +1,4 @@
-<div align="right">
-  <b>English</b> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.md">简体中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.hant.md">繁體中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ja.md">日本語</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ko.md">한국어</a>
-</div>
-
-## mcpp-community | Modern C++ Community
+<h2><table align="right"><tr><td>&nbsp;<sub><b>English</b> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.md">简体中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.hant.md">繁體中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ja.md">日本語</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ko.md">한국어</a></sub></td></tr></table>mcpp-community</h2>
 
 A community for Modern C++ enthusiasts — technology, culture, and discussion around Modern C++...
 
@@ -254,5 +250,5 @@ auto main() -> int {
 - [Official Website](https://mcpp.d2learn.org)
 - [Community Forum](https://forum.d2learn.org/category/20) ([`QQ: 1067245099`](https://qm.qq.com/q/nBQdBaYNna))
 - [Public Task Board](https://github.com/orgs/mcpp-community/projects/3)
-- [mcpplibs | Modern C++ Libraries](https://github.com/mcpplibs)
+- [mcpplibs | Modern / Modules C++ Libraries](https://github.com/mcpplibs)
 - [mcpp Community Members & Developers | Apply Here](https://github.com/mcpp-community/members)
