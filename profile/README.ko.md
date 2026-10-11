@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/247994312?s=200&v=4" width="120" alt="mcpp-community logo"/>
+  <img src="https://raw.githubusercontent.com/mcpp-community/.github/main/profile/assets/logo.png" width="120" alt="mcpp-community logo"/>
   <h1>mcpp-community</h1>
   <p>모던 C++ 애호가 커뮤니티, 모던 C++ 관련 기술, 문화, 교류...</p>
   <p><sub><a href="https://github.com/mcpp-community">English</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.md">简体中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.zh.hant.md">繁體中文</a> | <a href="https://github.com/mcpp-community/.github/blob/main/profile/README.ja.md">日本語</a> | <b>한국어</b></sub></p>
