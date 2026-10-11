@@ -23,3 +23,32 @@ jobs:
           auto_commit: false
           targets: 'mcpp-community/* mcpplibs/*'
           exclude_logins: 'mcpplibs xlings-ci speak'
+          pr_branch_name: thanks-contributors/update
+
+      # The action only updates profile/README.md and has already pushed it to
+      # the PR branch; copy its contributors block into the translated READMEs
+      # and push that onto the same PR.
+      - name: Sync contributors to translated READMEs
+        env:
+          PR_BRANCH: thanks-contributors/update
+        run: |
+          if [ "$(git rev-parse --abbrev-ref HEAD)" != "$PR_BRANCH" ]; then
+            echo "No contributors update in this run, skipping."
+            exit 0
+          fi
+
+          python3 .github/scripts/sync-contributors.py profile/README.md \
+            profile/README.zh.md \
+            profile/README.zh.hant.md \
+            profile/README.ja.md \
+            profile/README.ko.md
+
+          if git diff --quiet; then
+            echo "Translated READMEs already in sync."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: sync contributors to translated READMEs"
+          git push origin "$PR_BRANCH"
