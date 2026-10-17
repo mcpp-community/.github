@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 31,
+  "count": 32,
   "display": {
     "sort_pinned": [],
     "sort_by": "recent_commits",
@@ -12,8 +12,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 1841,
-      "recent_commits": 1787
+      "contributions": 1852,
+      "recent_commits": 1798
     },
     {
       "name": "FrozenLemonTee",
@@ -33,8 +33,15 @@
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
-      "contributions": 16,
-      "recent_commits": 16
+      "contributions": 19,
+      "recent_commits": 19
+    },
+    {
+      "name": "FarnaHerry",
+      "email": null,
+      "login": "FarnaHerry",
+      "contributions": 15,
+      "recent_commits": 15
     },
     {
       "name": "yspbwx2010",
@@ -44,11 +51,11 @@
       "recent_commits": 15
     },
     {
-      "name": "FarnaHerry",
+      "name": "tz12323",
       "email": null,
-      "login": "FarnaHerry",
-      "contributions": 14,
-      "recent_commits": 14
+      "login": "tz12323",
+      "contributions": 8,
+      "recent_commits": 8
     },
     {
       "name": "Ximiaw",
@@ -65,6 +72,13 @@
       "recent_commits": 6
     },
     {
+      "name": "yizhinailong",
+      "email": null,
+      "login": "yizhinailong",
+      "contributions": 5,
+      "recent_commits": 5
+    },
+    {
       "name": "lczllx",
       "email": null,
       "login": "lczllx",
@@ -75,13 +89,6 @@
       "name": "lildengzi",
       "email": null,
       "login": "lildengzi",
-      "contributions": 3,
-      "recent_commits": 3
-    },
-    {
-      "name": "yizhinailong",
-      "email": null,
-      "login": "yizhinailong",
       "contributions": 3,
       "recent_commits": 3
     },
@@ -128,13 +135,6 @@
       "recent_commits": 2
     },
     {
-      "name": "tz12323",
-      "email": null,
-      "login": "tz12323",
-      "contributions": 1,
-      "recent_commits": 2
-    },
-    {
       "name": "Mq-b",
       "email": null,
       "login": "Mq-b",
@@ -145,6 +145,13 @@
       "name": "13eholder",
       "email": null,
       "login": "13eholder",
+      "contributions": 1,
+      "recent_commits": 1
+    },
+    {
+      "name": "dannyward630",
+      "email": null,
+      "login": "dannyward630",
       "contributions": 1,
       "recent_commits": 1
     },
@@ -324,7 +331,7 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 8,
+      "count": 9,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -348,6 +355,10 @@
         },
         {
           "name": "HalfAnElephant",
+          "email": null
+        },
+        {
+          "name": "dannyward630",
           "email": null
         },
         {
@@ -651,7 +662,15 @@
           "email": null
         },
         {
+          "name": "tz12323",
+          "email": null
+        },
+        {
           "name": "yspbwx2010",
+          "email": null
+        },
+        {
+          "name": "yizhinailong",
           "email": null
         },
         {
@@ -671,15 +690,7 @@
           "email": null
         },
         {
-          "name": "yizhinailong",
-          "email": null
-        },
-        {
           "name": "Aimol-l",
-          "email": null
-        },
-        {
-          "name": "tz12323",
           "email": null
         }
       ]
