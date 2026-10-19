@@ -139,6 +139,13 @@ auto main() -> int {
 </tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/lihaoze123">
+            <img src="https://avatars.githubusercontent.com/u/35329574?v=4" width="50;" alt="lihaoze123"/>
+            <br />
+            <sub><b>lihaoze123</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/MoYingJi">
             <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
             <br />
@@ -187,6 +194,8 @@ auto main() -> int {
             <sub><b>HalfAnElephant</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Hebown">
             <img src="https://avatars.githubusercontent.com/u/151939174?v=4" width="50;" alt="Hebown"/>
@@ -194,8 +203,6 @@ auto main() -> int {
             <sub><b>Hebown</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/johanvx">
             <img src="https://avatars.githubusercontent.com/u/61529310?v=4" width="50;" alt="johanvx"/>
@@ -245,6 +252,8 @@ auto main() -> int {
             <sub><b>Ankali-Aylina</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jwaiting">
             <img src="https://avatars.githubusercontent.com/u/39482149?v=4" width="50;" alt="jwaiting"/>
@@ -252,6 +261,13 @@ auto main() -> int {
             <sub><b>jwaiting</b></sub>
         </a>
     </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
 </tr>
 </table>
 <!-- thanks-contributors-flag-end -->

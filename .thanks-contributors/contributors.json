@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 32,
+  "count": 33,
   "display": {
     "sort_pinned": [],
     "sort_by": "recent_commits",
@@ -12,8 +12,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 1852,
-      "recent_commits": 1798
+      "contributions": 1855,
+      "recent_commits": 1801
     },
     {
       "name": "FrozenLemonTee",
@@ -55,7 +55,7 @@
       "email": null,
       "login": "tz12323",
       "contributions": 8,
-      "recent_commits": 8
+      "recent_commits": 9
     },
     {
       "name": "Ximiaw",
@@ -75,8 +75,8 @@
       "name": "yizhinailong",
       "email": null,
       "login": "yizhinailong",
-      "contributions": 5,
-      "recent_commits": 5
+      "contributions": 6,
+      "recent_commits": 6
     },
     {
       "name": "lczllx",
@@ -117,6 +117,13 @@
       "name": "gzj-creator",
       "email": null,
       "login": "gzj-creator",
+      "contributions": 2,
+      "recent_commits": 2
+    },
+    {
+      "name": "lihaoze123",
+      "email": null,
+      "login": "lihaoze123",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -331,7 +338,7 @@
       ]
     },
     "mcpp-community/mcpp": {
-      "count": 9,
+      "count": 10,
       "contributors": [
         {
           "name": "Sunrisepeak",
@@ -359,6 +366,10 @@
         },
         {
           "name": "dannyward630",
+          "email": null
+        },
+        {
+          "name": "lihaoze123",
           "email": null
         },
         {
@@ -440,15 +451,15 @@
           "email": null
         },
         {
+          "name": "Sunrisepeak",
+          "email": null
+        },
+        {
           "name": "helantianshen",
           "email": null
         },
         {
           "name": "lildengzi",
-          "email": null
-        },
-        {
-          "name": "Sunrisepeak",
           "email": null
         }
       ]
@@ -458,6 +469,15 @@
       "contributors": [
         {
           "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/nix-mcpp": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "lihaoze123",
           "email": null
         }
       ]
