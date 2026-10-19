@@ -117,6 +117,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/lihaoze123">
+            <img src="https://avatars.githubusercontent.com/u/35329574?v=4" width="50;" alt="lihaoze123"/>
+            <br />
+            <sub><b>lihaoze123</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/MoYingJi">
             <img src="https://avatars.githubusercontent.com/u/64307394?v=4" width="50;" alt="MoYingJi"/>
             <br />
@@ -137,6 +144,8 @@
             <sub><b>Mq-b</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/13eholder">
             <img src="https://avatars.githubusercontent.com/u/109021191?v=4" width="50;" alt="13eholder"/>
@@ -144,8 +153,6 @@
             <sub><b>13eholder</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/dannyward630">
             <img src="https://avatars.githubusercontent.com/u/71604164?v=4" width="50;" alt="dannyward630"/>
@@ -209,6 +216,8 @@
             <sub><b>xv1rcn</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href="https://github.com/521xueweihan">
             <img src="https://avatars.githubusercontent.com/u/8255800?v=4" width="50;" alt="521xueweihan"/>
@@ -216,8 +225,6 @@
             <sub><b>521xueweihan</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href="https://github.com/Ankali-Aylina">
             <img src="https://avatars.githubusercontent.com/u/109135335?v=4" width="50;" alt="Ankali-Aylina"/>
@@ -232,7 +239,6 @@
             <sub><b>jwaiting</b></sub>
         </a>
     </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
