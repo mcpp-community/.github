@@ -1,6 +1,6 @@
 {
   "thanks-contributors": "1.1.0",
-  "count": 35,
+  "count": 36,
   "display": {
     "sort_pinned": [],
     "sort_by": "recent_commits",
@@ -12,8 +12,8 @@
       "name": "Sunrisepeak",
       "email": null,
       "login": "Sunrisepeak",
-      "contributions": 2201,
-      "recent_commits": 2142
+      "contributions": 2568,
+      "recent_commits": 2499
     },
     {
       "name": "FrozenLemonTee",
@@ -26,8 +26,8 @@
       "name": "ZheFeng7110",
       "email": null,
       "login": "ZheFeng7110",
-      "contributions": 38,
-      "recent_commits": 38
+      "contributions": 50,
+      "recent_commits": 50
     },
     {
       "name": "helantianshen",
@@ -79,6 +79,13 @@
       "recent_commits": 6
     },
     {
+      "name": "Sunrisepeak",
+      "email": "sunrisepeak@xlings.org",
+      "login": null,
+      "contributions": 5,
+      "recent_commits": 5
+    },
+    {
       "name": "lczllx",
       "email": null,
       "login": "lczllx",
@@ -89,6 +96,13 @@
       "name": "lildengzi",
       "email": null,
       "login": "lildengzi",
+      "contributions": 3,
+      "recent_commits": 3
+    },
+    {
+      "name": "NopeCharon",
+      "email": null,
+      "login": "NopeCharon",
       "contributions": 3,
       "recent_commits": 3
     },
@@ -138,13 +152,6 @@
       "name": "MoYingJi",
       "email": null,
       "login": "MoYingJi",
-      "contributions": 2,
-      "recent_commits": 2
-    },
-    {
-      "name": "NopeCharon",
-      "email": null,
-      "login": "NopeCharon",
       "contributions": 2,
       "recent_commits": 2
     },
@@ -367,11 +374,11 @@
           "email": null
         },
         {
-          "name": "helantianshen",
+          "name": "NopeCharon",
           "email": null
         },
         {
-          "name": "NopeCharon",
+          "name": "helantianshen",
           "email": null
         },
         {
@@ -496,6 +503,15 @@
       ]
     },
     "mcpp-community/members": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpp-community/mtest": {
       "count": 1,
       "contributors": [
         {
@@ -641,6 +657,24 @@
         }
       ]
     },
+    "mcpplibs/dirun": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": "sunrisepeak@xlings.org"
+        }
+      ]
+    },
+    "mcpplibs/djgpp-platform": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/dr_libs-m": {
       "count": 1,
       "contributors": [
@@ -718,6 +752,24 @@
       ]
     },
     "mcpplibs/imgui-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/libarchive-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/libc-m": {
       "count": 1,
       "contributors": [
         {
@@ -881,6 +933,15 @@
         }
       ]
     },
+    "mcpplibs/mimalloc-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/miniaudio-m": {
       "count": 1,
       "contributors": [
@@ -918,6 +979,15 @@
       ]
     },
     "mcpplibs/openkal-emscripten": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/openkal-freebsd": {
       "count": 1,
       "contributors": [
         {
@@ -997,7 +1067,25 @@
         }
       ]
     },
+    "mcpplibs/openkal-posix": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
     "mcpplibs/openkal-uefi": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/openkal-uefi-platform": {
       "count": 1,
       "contributors": [
         {
@@ -1210,6 +1298,42 @@
     "mcpplibs/xkeyboard-config": {
       "count": 0,
       "contributors": []
+    },
+    "mcpplibs/xxhash-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/xz-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/zlib-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
+    },
+    "mcpplibs/zstd-m": {
+      "count": 1,
+      "contributors": [
+        {
+          "name": "Sunrisepeak",
+          "email": null
+        }
+      ]
     }
   }
 }
